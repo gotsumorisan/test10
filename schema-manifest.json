@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "v4-step10.10",
+  "createdAt": "2026-09-24",
+  "runtimeMigrationPerformed": false,
+  "datasets": [
+    "stores",
+    "machines",
+    "installations",
+    "strategies",
+    "screening",
+    "look-guides",
+    "audit-meta"
+  ],
+  "rules": [
+    "パチスロ専用。パチンコ用フィールドを追加しない。",
+    "IDは英小文字・数字・アンダースコアのみ。表示名をキーにしない。",
+    "空文字で不明を表さない。nullまたは明示的unknownを使う。",
+    "installationのrate空欄は禁止。数値またはunknown。",
+    "一次足切りはscreeningに独立保存し、strategiesの文章から自動生成しない。",
+    "設置・攻略・一次足切り・表示監査の日付を分離する。",
+    "screening conditionはstrategyCounterIdをnullableで明示し、対応する攻略counterが確認できる場合はID参照する。"
+  ]
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "storeId": "maruhan_abashiri",
+    "name": "マルハン網走店",
+    "areaId": "abashiri",
+    "areaName": "網走",
+    "address": null,
+    "sourceUrl": "https://www.p-world.co.jp/hokkaido/maruhan-abashiri.htm",
+    "installationCheckedAt": "2026-09-20",
+    "active": true
+  },
+  {
+    "storeId": "royal_abashiri",
+    "name": "ロイヤル網走店",
+    "areaId": "abashiri",
+    "areaName": "網走",
+    "address": null,
+    "sourceUrl": "https://www.p-world.co.jp/hokkaido/royal-abashiri.htm",
+    "installationCheckedAt": "2026-09-20",
+    "active": true
+  },
+  {
+    "storeId": "taiyo_yamashita_abashiri",
+    "name": "パーラー太陽 山下通店",
+    "areaId": "abashiri",
+    "areaName": "網走",
+    "address": null,
+    "sourceUrl": "https://www.p-world.co.jp/hokkaido/taiyo-yamasita.htm",
+    "installationCheckedAt": "2026-09-20",
+    "active": true
+  },
+  {
+    "storeId": "towa_abashiri",
+    "name": "パチンコパーラー東和網走店",
+    "areaId": "abashiri",
+    "areaName": "網走",
+    "address": null,
+    "sourceUrl": "https://www.p-world.co.jp/hokkaido/towa-komaba.htm",
+    "installationCheckedAt": "2026-09-20",
+    "active": true
+  },
+  {
+    "storeId": "aurora_kitami",
+    "name": "オーロラ北見店",
+    "areaId": "kitami",
+    "areaName": "北見",
+    "address": null,
+    "sourceUrl": "https://www.p-world.co.jp/hokkaido/aurora-kitami.htm",
+    "installationCheckedAt": "2026-09-20",
+    "active": true
+  },
+  {
+    "storeId": "daigoro_x_kitami",
+    "name": "パーラーDAIGORO X",
+    "areaId": "kitami",
+    "areaName": "北見",
+    "address": null,
+    "sourceUrl": "https://www.p-world.co.jp/hokkaido/daigoro-x.htm",
+    "installationCheckedAt": "2026-09-20",
+    "active": true
+  },
+  {
+    "storeId": "daigoro_z_kitami",
+    "name": "パーラーDAIGORO Z",
+    "areaId": "kitami",
+    "areaName": "北見",
+    "address": null,
+    "sourceUrl": "https://www.p-world.co.jp/hokkaido/daigorouz.htm",
+    "installationCheckedAt": "2026-09-20",
+    "active": true
+  },
+  {
+    "storeId": "daiman_kitami",
+    "name": "パーラーダイマン",
+    "areaId": "kitami",
+    "areaName": "北見",
+    "address": null,
+    "sourceUrl": "https://www.p-world.co.jp/hokkaido/daiman.htm",
+    "installationCheckedAt": "2026-09-20",
+    "active": true
+  },
+  {
+    "storeId": "dynam_kitami",
+    "name": "ダイナム北見店",
+    "areaId": "kitami",
+    "areaName": "北見",
+    "address": null,
+    "sourceUrl": "https://www.p-world.co.jp/hokkaido/dynam-kitami.htm",
+    "installationCheckedAt": "2026-09-21",
+    "active": true
+  },
+  {
+    "storeId": "himawari_kitami",
+    "name": "北見ひまわり",
+    "areaId": "kitami",
+    "areaName": "北見",
+    "address": null,
+    "sourceUrl": "https://www.p-world.co.jp/hokkaido/kitami-himawari.htm",
+    "installationCheckedAt": "2026-09-20",
+    "active": true
+  },
+  {
+    "storeId": "maruhan_kitami",
+    "name": "マルハン北見店",
+    "areaId": "kitami",
+    "areaName": "北見",
+    "address": null,
+    "sourceUrl": "https://www.p-world.co.jp/hokkaido/maruhan-kitami.htm",
+    "installationCheckedAt": "2026-09-20",
+    "active": true
+  },
+  {
+    "storeId": "maruhan_tanno",
+    "name": "マルハン端野店",
+    "areaId": "kitami",
+    "areaName": "北見",
+    "address": null,
+    "sourceUrl": "https://www.p-world.co.jp/hokkaido/maruhan-tanno.htm",
+    "installationCheckedAt": "2026-09-20",
+    "active": true
+  },
+  {
+    "storeId": "royal_kitami",
+    "name": "ロイヤル北見店",
+    "areaId": "kitami",
+    "areaName": "北見",
+    "address": null,
+    "sourceUrl": "https://www.p-world.co.jp/hokkaido/royal-kitami.htm",
+    "installationCheckedAt": "2026-09-20",
+    "active": true
+  },
+  {
+    "storeId": "towa_kitami",
+    "name": "パチンコパーラー東和 北見店",
+    "areaId": "kitami",
+    "areaName": "北見",
+    "address": null,
+    "sourceUrl": "https://www.p-world.co.jp/hokkaido/towa-kitami.htm",
+    "installationCheckedAt": "2026-09-20",
+    "active": true
+  }
+]

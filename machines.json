@@ -1,0 +1,1714 @@
+[
+  {
+    "machineId": "slot_76d79f714d76",
+    "name": "A-SLOT+ ディスクアップ ULTRAREMIX",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_438fcd79ff65",
+    "name": "A-SLOT+ 異世界かるてっとBT",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_085f49e8a5ff",
+    "name": "CREA Newクレアの秘宝伝",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_6a5730d23eea",
+    "name": "GI優駿倶楽部黄金",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_21796ef13637",
+    "name": "HEY！エリートサラリーマン鏡",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_0c95613ba9e3",
+    "name": "L ToLOVEるダークネス",
+    "aliases": [
+      "ToLOVEるダークネス"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_7d3da023b8aa",
+    "name": "L ULTRAMAN 最終決戦",
+    "aliases": [
+      "ULTRAMAN 最終決戦"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_7b5bd5c5742c",
+    "name": "L アズールレーン THE ANIMATION",
+    "aliases": [
+      "アズールレーン"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_e6cb3e3fa282",
+    "name": "L ダーリン・イン・ザ・フランキス",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_c682c9784042",
+    "name": "L ひぐらしのなく頃に 業",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_4ce6de722561",
+    "name": "L 犬夜叉2",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_a4bda71b4bae",
+    "name": "L 真・一騎当千",
+    "aliases": [
+      "真・一騎当千"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_25c1a639dbb6",
+    "name": "L 絶対衝激～PLATONIC HEART～",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_322aba82fe32",
+    "name": "L 絶対衝激IV",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_832aa179ed08",
+    "name": "L 東京喰種",
+    "aliases": [
+      "東京喰種"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_5cc56ad56667",
+    "name": "L 無職転生 ～異世界行ったら本気だす～",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_602d33d4f1fe",
+    "name": "LBパチスロ ヱヴァンゲリヲン ～約束の扉～",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_c39e5668e83d",
+    "name": "LBパチスロ1000ちゃんA",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_bb7f11dec0e8",
+    "name": "Lアクダマドライブ",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_f1c84f5b2482",
+    "name": "Lタクトオーパス デスティニー",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_6c884eee229f",
+    "name": "Lパチスロ ありふれた職業で世界最強",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_bfb420be30e3",
+    "name": "Lパチスロ からくりサーカス2",
+    "aliases": [
+      "からくりサーカス2"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_b3b5acead333",
+    "name": "Lパチスロ ダンベル何キロ持てる？",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_064ba2dbb835",
+    "name": "Lパチスロ 炎炎ノ消防隊",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_7d89b783bc28",
+    "name": "Lパチスロ 炎炎ノ消防隊2",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_b5d3b3d17251",
+    "name": "Lパチスロ 革命機ヴァルヴレイヴ2",
+    "aliases": [
+      "革命機ヴァルヴレイヴ2"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_f50988a15904",
+    "name": "Lパチスロ 機動戦士ガンダムユニコーン 覚醒DRIVE",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_438e6f17774d",
+    "name": "Lパチスロ 喰霊‐零‐Re",
+    "aliases": [
+      "Lパチスロ 喰霊-零-Re"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_e87f82c8d62b",
+    "name": "Lパチスロ 彼女、お借りします",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_69eb24006d6b",
+    "name": "Lパチスロうみねこのなく頃に2",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_7fa9cf375608",
+    "name": "Lパチスロガールズ＆パンツァー 最終章",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_a44cc8f13e69",
+    "name": "Lパチスロ戦姫絶唱シンフォギア 正義の歌",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_f6ae3d864628",
+    "name": "Lパチスロ閃乱カグラ2 SHINOVI MASTER",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_47112b530e2f",
+    "name": "Lバンドリ！",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_5c28f5243132",
+    "name": "Lラブ嬢3～Wご指名はいかがですか？～",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_f4401220c0aa",
+    "name": "Lルパン三世 大航海者の秘宝",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_97a7b074048b",
+    "name": "L虚構推理",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_2335cc506788",
+    "name": "L咲-Saki- 頂上決戦",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_7f7d95ca3019",
+    "name": "L邪神ちゃんドロップキック",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_0d032cfe95d3",
+    "name": "L主役は銭形5",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_dbcc06a7a5a5",
+    "name": "L少女☆歌劇 レヴュースタァライト -The SLOT-",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_6e19b9942bec",
+    "name": "L聖闘士星矢 海皇覚醒 CUSTOM EDITION",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_13edcaaff82f",
+    "name": "L青春ブタ野郎はバニーガール先輩の夢を見ない",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_214cfff547fc",
+    "name": "L戦国乙女4 戦乱に閃く炯眼の軍師",
+    "aliases": [
+      "L戦国乙女4",
+      "戦国乙女4"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_603c99db035b",
+    "name": "L戦国乙女5 業火を穿つ宿焔の双刃",
+    "aliases": [
+      "戦国乙女5"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_79abb506f305",
+    "name": "L南国育ち",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_e7698d2628e4",
+    "name": "L南国育ち SPECIAL",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_b316115d26ca",
+    "name": "L範馬刃牙",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_6b447405abbf",
+    "name": "L不二子BT",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_5533a3294a55",
+    "name": "SHAKE BONUS TRIGGER",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_4477d50d6bcd",
+    "name": "Sister Quest",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_109215b23738",
+    "name": "SLOTバジリスク～甲賀忍法帖～絆2",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_ccd0dbba1c30",
+    "name": "SLOT劇場版 魔法少女まどか☆マギカ[前編]始まりの物語/[後編]永遠の物語",
+    "aliases": [
+      "SLOT劇場版 魔法少女まどか☆マギカ［前編］始まりの物語／［後編］永遠の物語"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_aa2c6ddab6cc",
+    "name": "SLOT忍者じゃじゃ丸くん",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_60ece0a8c56c",
+    "name": "Sキャッツ・アイ",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_09c3dd3a4950",
+    "name": "Sスーパー海物語 IN JAPAN祭",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_2238e5008a70",
+    "name": "Sヤッターマン絶対正義",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_770967b4e95b",
+    "name": "S笑ゥせぇるすまん4",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_b9da9956be46",
+    "name": "アイムジャグラーEX",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_bdb59a4c5c84",
+    "name": "アオハル♪操 A-LIVE",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_2a0fe667f5ff",
+    "name": "アナザーゴッドハーデス-解き放たれし槍撃ver.-",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_7a049238482e",
+    "name": "アナターのオット！？はーです",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_c3aa03e11535",
+    "name": "アニマルスロットドッチ",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_a802b9fc35d6",
+    "name": "アレックス ブライト",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_8ea191a9d933",
+    "name": "いざ！番長",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_55b02dcdd647",
+    "name": "ウルトラミラクルジャグラー",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_169f501e7572",
+    "name": "クランキークレスト",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_1eb113381929",
+    "name": "クレアの秘宝伝 ～はじまりの扉と太陽の石～ ボーナストリガーver.",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_08a4616f5c0f",
+    "name": "ゴーゴージャグラー3",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_cb034017839f",
+    "name": "サンダーVライトニング",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_eb6d7f8e5ddb",
+    "name": "シャア専用パチスロ 逆襲の赤い彗星",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_89c6504e401f",
+    "name": "ジャグラーガールズSS",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_33a642a42095",
+    "name": "スーパービンゴネオクラシック",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_0f2ae5c54525",
+    "name": "スマスロ BIRDIE WING ‐Golf Girls’ Story‐",
+    "aliases": [
+      "スマスロ BIRDIE WING -Golf Girls’ Story-"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_8f7391d34780",
+    "name": "スマスロ コードギアス 反逆のルルーシュ／復活のルルーシュ",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_b9456985e8f5",
+    "name": "スマスロ ゴッドイーター リザレクション",
+    "aliases": [
+      "ゴッドイーター リザレクション"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_e70db1013947",
+    "name": "スマスロ ゴブリンスレイヤーII",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_6f18950a14d8",
+    "name": "スマスロ サンダーV",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_e157d17b35f5",
+    "name": "スマスロ シャーマンキング",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_c8be5fed1f5b",
+    "name": "スマスロ ストリートファイター6",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_2da603c8c28d",
+    "name": "スマスロ タコスロ",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_f76bd6023992",
+    "name": "スマスロ デビル メイ クライ5 スタイリッシュトライブ",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_b029e9f21d5c",
+    "name": "スマスロ とある科学の超電磁砲2",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_cd170c361f27",
+    "name": "スマスロ とある魔術の禁書目録",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_90475641c8ac",
+    "name": "スマスロ とある魔術の禁書目録2",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_1bf81b0b7202",
+    "name": "スマスロ とんでもスキルで異世界放浪メシ",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_93c16dbf7de3",
+    "name": "スマスロ バイオハザード ヴィレッジ",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_3e7a8776c314",
+    "name": "スマスロ バイオハザード5",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_3c8de929ebd3",
+    "name": "スマスロ バイオハザードRE:3",
+    "aliases": [
+      "バイオハザード RE:3"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_59e13701472b",
+    "name": "スマスロ ハナビ",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_3a8d1aff267e",
+    "name": "スマスロ ビッグドリーム THE GOLDEN PUSHER",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_506685ef3a7e",
+    "name": "スマスロ マギアレコード 魔法少女まどか☆マギカ外伝",
+    "aliases": [
+      "スマスロ マギアレコード",
+      "マギアレコード"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_d27334582581",
+    "name": "スマスロ ミリオンゴッド‐神々の軌跡‐",
+    "aliases": [
+      "スマスロ ミリオンゴッド-神々の軌跡-",
+      "ミリオンゴッド 神々の軌跡"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_f946e0c5d6b5",
+    "name": "スマスロ モンスターハンターライズ",
+    "aliases": [
+      "モンスターハンターライズ"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_6e85998e5fe2",
+    "name": "スマスロ やじきた道中記参る！",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_ed0eea81ef23",
+    "name": "スマスロ リコリス・リコイル",
+    "aliases": [
+      "リコリス・リコイル"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_dc46e12e8569",
+    "name": "スマスロ 沖ドキ！DUO アンコール",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_d48442b9f532",
+    "name": "スマスロ 化物語",
+    "aliases": [
+      "化物語"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_0d6c5f3d96eb",
+    "name": "スマスロ 鬼武者3",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_d12346d851de",
+    "name": "スマスロ 攻殻機動隊",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_0000c6fa4c02",
+    "name": "スマスロ 甲鉄城のカバネリ 海門決戦",
+    "aliases": [
+      "スマスロ 甲鉄城のカバネリ 海門（うなと）決戦",
+      "甲鉄城のカバネリ 海門決戦"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_6c49848e8b2d",
+    "name": "スマスロ 新鬼武者3",
+    "aliases": [
+      "新鬼武者3"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_74de5ccb0099",
+    "name": "スマスロ 東京リベンジャーズ",
+    "aliases": [
+      "スマスロ東京リベンジャーズ",
+      "東京リベンジャーズ"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_70ca91004bb7",
+    "name": "スマスロ 秘宝伝",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_4a9f23c97176",
+    "name": "スマスロ 北斗の拳 転生の章2",
+    "aliases": [
+      "北斗の拳 転生の章2"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_f5745c33ff6f",
+    "name": "スマスロ 緑ドン VIVA!情熱南米編 REVIVAL",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_cf0bf4f7c515",
+    "name": "スマスロケロット5BT",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_845c8689bd39",
+    "name": "スマスロスーパーブラックジャック",
+    "aliases": [
+      "スーパーブラックジャック",
+      "スマスロ スーパーブラックジャック"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_cb8975d9d7bb",
+    "name": "スマスロスーパーリオエース2",
+    "aliases": [
+      "スーパーリオエース2"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_3eebb5848dd7",
+    "name": "スマスロネオプラネット",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_f93ec71b8006",
+    "name": "スマスロバジリスク～甲賀忍法帖～絆2 天膳 BLACK EDITION",
+    "aliases": [
+      "バジリスク絆2 天膳"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_1213f7768091",
+    "name": "スマスロモンキーターンV",
+    "aliases": [
+      "モンキーターンV"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_f6422ecbada7",
+    "name": "スマスロヨルムンガンド",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_a4083ee07247",
+    "name": "スマスロ交響詩篇エウレカセブン4 HI-EVOLUTION",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_b1a9540c914c",
+    "name": "スマスロ痛いのは嫌なので防御力に極振りしたいと思います。",
+    "aliases": [
+      "スマスロ 痛いのは嫌なので防御力に極振りしたいと思います。"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_0faec2be560c",
+    "name": "スマスロ鉄拳6",
+    "aliases": [
+      "鉄拳6"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_ee93e4005315",
+    "name": "スマスロ頭文字D 2nd",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_cb804964fe7e",
+    "name": "スマスロ北斗の拳",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_e1f42a230041",
+    "name": "スロット ソードアート・オンライン",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_e850740325b0",
+    "name": "スロット ソードアート・オンラインII",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_0c83b38b2357",
+    "name": "スロット ゾンビランドサガ",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_0d3763d6fec1",
+    "name": "スロット ワールドダイスター",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_a0cf8720b426",
+    "name": "スロドル",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_60533429539b",
+    "name": "チバリヨ-25",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_418278046637",
+    "name": "チバリヨ2",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_33d393b85fec",
+    "name": "ニューゲッターマウス",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_741976946bb5",
+    "name": "ニューパルサーSP4 with 太鼓の達人",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_fee35da69e13",
+    "name": "ニューパルサーSPIII",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_8489193ff86e",
+    "name": "ネオアイムジャグラーEX",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_9ccd23182fbd",
+    "name": "バーサスリヴァイズ",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_9d4335e575c1",
+    "name": "パチスロ アクエリオン ALL STARS",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_74c631894058",
+    "name": "パチスロ かぐや様は告らせたい",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_19a4b975c850",
+    "name": "パチスロ ガメラ2",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_038e998e675b",
+    "name": "パチスロ からくりサーカス",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_a97a3ac43bb8",
+    "name": "パチスロ コードギアス 反逆のルルーシュ3 C.C.&Kallen ver.",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_4ac6c879a055",
+    "name": "パチスロ ダンジョンに出会いを求めるのは間違っているだろうか2",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_051f02c713fc",
+    "name": "パチスロ バイオハザード7 レジデント イービル",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_6f107844b0ef",
+    "name": "パチスロ バイオハザードRE:2",
+    "aliases": [
+      "パチスロ バイオハザード RE:2"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_ad46588edcf4",
+    "name": "パチスロ ピンクパンサーSP",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_97a71266a357",
+    "name": "パチスロ ファイヤードリフト",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_2e04369ae563",
+    "name": "パチスロ モンスターハンター：ワールドTM",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_b8fa2f1e83b6",
+    "name": "パチスロ 炎炎ノ消防隊",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_ce0e28d0e4df",
+    "name": "パチスロ 革命機ヴァルヴレイヴ",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_4868d9160601",
+    "name": "パチスロ 新鬼武者2",
+    "aliases": [
+      "パチスロ新鬼武者2"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_1e4bba16a5f4",
+    "name": "パチスロ 青鬼",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_54ff2fd8483c",
+    "name": "パチスロ 戦国‡恋姫",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_9b2c4afd5d45",
+    "name": "パチスロ 転生したら剣でした",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_641b7e5ea9b4",
+    "name": "パチスロアラジンAクラシック",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_03c98c0bbe2c",
+    "name": "パチスロうまい棒",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_51c26ec2f318",
+    "name": "パチスロこの素晴らしい世界に祝福を！",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_6ea057ec8fbc",
+    "name": "パチスロディスクアップ2",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_64bfae41dc3a",
+    "name": "パチスロなめ猫～液晶ないけどなめんじゃねぇ～",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_359d261e48a4",
+    "name": "パチスロハードボイルド",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_b995119626ca",
+    "name": "パチスロハイパーラッシュ",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_c57d45fc1af4",
+    "name": "パチスロペルソナ5",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_3f4591bc2eb1",
+    "name": "パチスロラブ嬢2プラス",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_461f7ba087fb",
+    "name": "パチスロ学園黙示録ハイスクール・オブ・ザ・デッド ゴールド",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_4edbc99f5254",
+    "name": "パチスロ機動戦士ガンダムユニコーン",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_99f45888f479",
+    "name": "パチスロ交響詩篇エウレカセブンHI-EVOLUTION ZERO TYPE-ART",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_41d9f57aebb0",
+    "name": "パチスロ甲鉄城のカバネリ",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_18fb29ca1f3b",
+    "name": "パチスロ盾の勇者の成り上がり",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_bd67ed71060b",
+    "name": "パチスロ真・北斗無双",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_8660fa4cca02",
+    "name": "パチスロ戦国乙女 暁の関ヶ原-DARKNESS-",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_a288a22e9f00",
+    "name": "パチスロ戦姫絶唱シンフォギア 勇気の歌",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_b000edce4869",
+    "name": "パチスロ鉄拳5",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_f99d1fbfbc9b",
+    "name": "パチスロ頭文字D",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_42fbe07af228",
+    "name": "パチスロ武装神姫",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_a72610716fc1",
+    "name": "パチスロ北斗の拳 宿命",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_16a634957569",
+    "name": "パチスロ麻雀物語4",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_1697e0d613f3",
+    "name": "パチスロ幼女戦記",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_3ad69ad6eec6",
+    "name": "ハッピージャグラーV III",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_a4e738abbe6e",
+    "name": "ハナハナホウオウ～天翔～",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_bc7e07c67961",
+    "name": "ファミスタ回胴版！！",
+    "aliases": [
+      "ファミスタ回胴版!!"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_112260c627e2",
+    "name": "ファンキージャグラー2",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_1f6b9b0f5d92",
+    "name": "プリズムナナ",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_ee9e6a7ee0ec",
+    "name": "ボンバーガール",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_d0c3834d49a0",
+    "name": "マイジャグラーV",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_7f43a1c8f7d1",
+    "name": "マジカルハロウィン ボーナストリガー",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_2d120826b367",
+    "name": "マジカルハロウィン8",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_e0e782ac81ce",
+    "name": "ミスタージャグラー",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_49896d6ca3ac",
+    "name": "モグモグ風林火山 大海戦の巻",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_bec7efd3a5f6",
+    "name": "もっと！クレアの秘宝伝 女神の歌声と太陽の子供達",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_1ab23bb491d8",
+    "name": "ローティス",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_ea883c8d993b",
+    "name": "押忍！番長4",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_976029e8f934",
+    "name": "押忍！番長ZERO",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_bd91d47fa547",
+    "name": "沖ドキ！DUO",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_99143dd27fc2",
+    "name": "沖ドキ！GOLD",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_f4bc79266987",
+    "name": "沖ドキ！GOLD-30",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_da1a0ce54ff5",
+    "name": "沖ドキ！ゴージャス 25Φ",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_d2dcbf966927",
+    "name": "花火絶景",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_6feb404e3e68",
+    "name": "回胴黙示録カイジ 狂宴",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_f88f1d5e4207",
+    "name": "鬼浜爆走紅蓮隊 狂闘旅情編",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_6008d9234552",
+    "name": "吉宗",
+    "aliases": [
+      "吉宗（2025）"
+    ],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_961ca7e3baea",
+    "name": "七つの魔剣が支配する",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_f1fc688b0a97",
+    "name": "十字架5",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_a5a08e3b4ecd",
+    "name": "新ハナビ",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_09d78a37dddc",
+    "name": "新世紀エヴァンゲリオン ～魂の共鳴～",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_d8a1afc3fbdf",
+    "name": "真打 吉宗",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_78eaf0fda278",
+    "name": "戦国コレクション6",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_ef94c3d7227d",
+    "name": "超ギラギラ爺サマー",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_df091ccaff8d",
+    "name": "桃太郎電鉄 ～パチスロも定番！～",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_f45c2c8cd329",
+    "name": "忍魂参 ～奥義皆伝ノ章～",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_4768651d4ef7",
+    "name": "麻雀格闘倶楽部 覚醒",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_3e3bc3ab2836",
+    "name": "麻雀格闘倶楽部参",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  },
+  {
+    "machineId": "slot_aa21819ca431",
+    "name": "翔べ！ハーレムエース",
+    "aliases": [],
+    "category": "UNKNOWN",
+    "maker": null,
+    "active": true
+  }
+]

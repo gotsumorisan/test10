@@ -1,0 +1,200 @@
+:root{--bg:#f5f7f9;--surface:#fff;--text:#17202a;--muted:#68727d;--line:#e2e7ec;--blue:#1769e0;--blue-soft:#eaf2ff;--pink:#d93c76;--shadow:0 10px 30px rgba(23,32,42,.07)}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}html{background:var(--bg);color-scheme:light;scroll-behavior:smooth}body{margin:0;min-height:100dvh;background:radial-gradient(900px 280px at 90% -80px,rgba(23,105,224,.12),transparent 60%),radial-gradient(620px 220px at -10% 10%,rgba(217,60,118,.07),transparent 60%),var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic",sans-serif;-webkit-font-smoothing:antialiased;padding-bottom:calc(82px + env(safe-area-inset-bottom))}a{color:inherit}button,input,select{font:inherit}button,a,input,select{touch-action:manipulation}input,select{font-size:16px}.v21-page,.v21-search-page{width:min(100%,760px);margin:auto;padding:calc(22px + env(safe-area-inset-top)) max(18px,env(safe-area-inset-right)) 24px max(18px,env(safe-area-inset-left))}.v21-wordmark{display:flex;gap:8px;align-items:center;font-size:10px;font-weight:800;letter-spacing:.12em;color:var(--muted);margin:6px 0 22px}.v21-mark{width:18px;height:5px;border-radius:9px;background:linear-gradient(90deg,var(--blue),var(--pink))}.v21-page h1{font-size:clamp(30px,9vw,44px);line-height:1.12;letter-spacing:-.045em;margin:0 0 12px}.lead,.v21-lead{color:var(--muted);font-size:13px;line-height:1.7;margin:0 0 22px}.v21-actions{background:var(--surface);border:1px solid var(--line);border-radius:20px;overflow:hidden;box-shadow:var(--shadow)}.v21-action{min-height:72px;display:grid;grid-template-columns:44px 1fr 24px;gap:10px;align-items:center;padding:12px 14px;text-decoration:none;border-bottom:1px solid var(--line)}.v21-action:last-child{border:0}.v21-action .ico{width:40px;height:40px;border-radius:12px;display:grid;place-items:center;background:#f2f5f8;color:var(--blue)}.v21-action.primary .ico{background:var(--blue-soft)}.v21-action svg{width:22px;stroke-width:1.7}.v21-action b{font-size:15px}.v21-action small{display:block;color:var(--muted);font-size:11px;margin-top:3px}.arr,.chev{color:#9aa4af;font-size:24px}.v21-section{margin-top:26px}.v21-sectionhead{display:flex;justify-content:space-between;border-bottom:1px solid var(--line);padding-bottom:9px;font-size:12px}.v21-sectionhead span{color:var(--muted)}.v21-recent{margin-top:18px}.v21-kicker{font-size:10px;font-weight:800;letter-spacing:.12em;color:var(--blue);margin-bottom:10px}.v21-dock{position:fixed;z-index:50;left:0;right:0;bottom:0;display:grid;grid-template-columns:repeat(4,1fr);background:rgba(255,255,255,.94);border-top:1px solid var(--line);backdrop-filter:blur(18px);padding:5px max(5px,env(safe-area-inset-right)) calc(5px + env(safe-area-inset-bottom)) max(5px,env(safe-area-inset-left))}.v21-dock a{min-height:50px;text-decoration:none;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;color:#77818c;font-size:10px;font-weight:650}.v21-dock a.active{color:var(--blue)}.v21-dock svg{width:21px;height:21px;stroke-width:1.7}.v21-search-head{position:sticky;z-index:40;top:0;background:rgba(245,247,249,.94);backdrop-filter:blur(18px);border-bottom:1px solid var(--line);padding:calc(12px + env(safe-area-inset-top)) max(16px,env(safe-area-inset-right)) 10px max(16px,env(safe-area-inset-left))}.v21-search-head .inner{max-width:760px;margin:auto}.v21-search-head h1{font-size:22px;margin:0 0 10px;letter-spacing:-.03em}.v21-searchbox,.v21-store-search{display:flex;align-items:center;gap:8px;background:var(--surface);border:1px solid #d7dde4;border-radius:14px;padding:0 12px;min-height:48px}.v21-searchbox svg,.v21-store-search svg{width:20px;color:#8a949f}.v21-searchbox input,.v21-store-search input{border:0;outline:0;background:transparent;width:100%;height:46px;color:var(--text)}.v21-segments{display:flex;gap:7px;overflow:auto;margin-top:9px;padding-bottom:1px;scrollbar-width:none}.v21-segments::-webkit-scrollbar{display:none}.v21-segments button{border:1px solid var(--line);background:var(--surface);color:var(--muted);border-radius:999px;min-height:44px;padding:0 14px;white-space:nowrap;font-size:12px;font-weight:700}.v21-segments button.on{background:var(--blue);border-color:var(--blue);color:#fff}.v21-search-page{padding-top:13px}.v21-count{font-size:11px;color:var(--muted);padding:0 2px 7px}.v21-results{background:var(--surface);border:1px solid var(--line);border-radius:17px;overflow:hidden}.v21-resultwrap{position:relative;border-bottom:1px solid var(--line)}.v21-resultwrap:last-child{border:0}.v21-result{min-height:92px;display:grid;grid-template-columns:38px minmax(0,1fr) 18px;gap:10px;align-items:start;text-decoration:none;padding:13px 50px 13px 12px}.v21-rank{width:34px;height:34px;border-radius:10px;display:grid;place-items:center;font-weight:850;font-size:13px;background:#edf0f3}.v21-rank.S{background:#dff5e6;color:#1d6b37}.v21-rank.A{background:var(--blue-soft);color:#1755a9}.v21-rank.B{background:#fff1ce;color:#8a5b00}.v21-result .name{font-weight:800;font-size:14px;line-height:1.35}.v21-result .meta{font-size:10.5px;color:var(--muted);margin:3px 0 6px}.v21-result .quick{font-size:12px;line-height:1.45;font-weight:650}.v23-target-label{font-size:9px;color:var(--pink);border:1px solid rgba(217,60,118,.25);background:#fff2f7;border-radius:5px;padding:2px 5px;margin-right:6px;vertical-align:1px}.v21-fav{position:absolute;right:7px;top:50%;transform:translateY(-50%);width:44px;height:44px;border:0;background:transparent;font-size:25px;color:#9ca6b0}.v21-fav.on{color:#e5a500}.v21-store-search{margin:15px 0 22px}.v21-storegroup{margin:0 0 25px}.v21-storegroup h2{font-size:15px;margin:0 2px 9px}.v21-storelist{background:var(--surface);border:1px solid var(--line);border-radius:17px;overflow:hidden}.v21-storerow{min-height:68px;display:grid;grid-template-columns:44px 1fr 18px;gap:11px;align-items:center;text-decoration:none;padding:10px 13px;border-bottom:1px solid var(--line)}.v21-storerow:last-child{border:0}.v21-storemark{width:40px;height:40px;border-radius:11px;background:var(--blue-soft);color:var(--blue);display:grid;place-items:center;font-size:10px;font-weight:850}.v21-storerow b{display:block;font-size:14px}.v21-storerow span{display:block;color:var(--muted);font-size:10.5px;margin-top:3px;line-height:1.4}
+/* Shared store/guide shell overrides legacy embedded dark themes */
+body.v2-store,body.v2-guide,body.v2-abashiri{--bg:#f5f7f9;--panel:#fff;--panel2:#f8fafc;--line:#e2e7ec;--text:#17202a;--muted:#68727d;--accent:#1769e0;background:var(--bg)!important;color:var(--text)!important;padding-bottom:calc(86px + env(safe-area-inset-bottom))!important}.v2-appbar{position:sticky;top:0;z-index:60;display:grid;grid-template-columns:auto minmax(0,1fr) 44px;gap:8px;align-items:center;min-height:54px;background:rgba(255,255,255,.95);backdrop-filter:blur(18px);border-bottom:1px solid var(--line);padding:calc(5px + env(safe-area-inset-top)) max(10px,env(safe-area-inset-right)) 5px max(10px,env(safe-area-inset-left))}.v2-back,.v2-tool{min-height:44px;display:flex;align-items:center;text-decoration:none;color:var(--blue);font-size:13px;font-weight:750}.v2-tool{justify-content:center}.v2-tool svg{width:22px}.v2-store-select{min-width:0;width:100%;height:44px;border:1px solid var(--line);border-radius:11px;background:#fff;color:var(--text);padding:0 9px;font-size:13px;font-weight:750}.v2-store header,.v2-guide header,.v2-abashiri header{top:calc(54px + env(safe-area-inset-top))!important;background:rgba(245,247,249,.96)!important;color:var(--text)!important;border-color:var(--line)!important;padding-left:max(14px,env(safe-area-inset-left))!important;padding-right:max(14px,env(safe-area-inset-right))!important}.v2-store main,.v2-guide main,.v2-abashiri main{padding-left:max(14px,env(safe-area-inset-left))!important;padding-right:max(14px,env(safe-area-inset-right))!important}.v2-store .search,.v2-abashiri .search{min-height:48px!important;background:#fff!important;color:var(--text)!important;border-color:#d7dde4!important}.v2-store .filter,.v2-guide .filter,.v2-abashiri .filter,.v2-guide .nav a{min-height:44px!important;display:inline-flex;align-items:center;background:#fff!important;color:var(--muted)!important;border-color:var(--line)!important;padding:0 13px!important}.v2-store .filter.active,.v2-guide .filter.on,.v2-abashiri .filter.active{background:var(--blue)!important;color:#fff!important;border-color:var(--blue)!important}.v2-store .notice,.v2-store .audit,.v2-abashiri .notice,.v2-guide .notice{background:#fff!important;color:var(--text)!important;border-color:var(--line)!important;box-shadow:none!important}.v2-store .card,.v2-abashiri .card,.v2-guide .card{background:#fff!important;color:var(--text)!important;border-color:var(--line)!important;box-shadow:none!important}.v2-store .details,.v2-abashiri .details,.v2-guide .body{background:#f8fafc!important;color:var(--text)!important;border-color:var(--line)!important}.v2-store .row,.v2-abashiri .row,.v2-store .auditrow{border-color:var(--line)!important}.v2-store .star,.v2-abashiri .star,.v2-store .toggle{min-width:44px;min-height:44px}.v2-store .source,.v2-abashiri .source,.v2-guide .source a{min-height:44px!important;display:inline-flex!important;align-items:center!important;color:var(--blue)!important;background:var(--blue-soft)!important;border-color:#cfe0fb!important}.v2-store .bottom,.v2-abashiri .bottom{background:rgba(255,255,255,.95)!important;border-color:var(--line)!important;padding-bottom:calc(5px + env(safe-area-inset-bottom))!important}.v2-store .bottom button,.v2-abashiri .bottom button{min-height:48px!important;color:var(--muted)!important}.v2-store .bottom b,.v2-abashiri .bottom b{color:var(--text)!important}.v2-guide .imgwrap{background:#eef2f6!important}.v2-guide .call{background:rgba(23,32,42,.9)!important;border-color:#80aef0!important}.v2-guide .head p,.v2-guide .v28-detail,.v2-guide .body li,.v2-guide .sub,.v2-guide .count{color:var(--muted)!important}.v2-guide .zoom{background:rgba(0,0,0,.82)!important}.v2-guide .zoom button{min-width:44px;min-height:44px}
+@media(max-width:390px){.v21-page,.v21-search-page{padding-left:max(14px,env(safe-area-inset-left));padding-right:max(14px,env(safe-area-inset-right))}.v21-result{padding-left:10px}.v21-storerow{padding-left:10px}.v21-action{padding-left:11px}.v21-page h1{font-size:32px}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto!important}*,*:before,*:after{animation:none!important;transition:none!important}}
+
+/* v3.2 supplied imagery */
+.v32-hero{height:176px;margin:-4px 0 20px;border-radius:22px;overflow:hidden;position:relative;background:linear-gradient(135deg,#dfe5ec,#cfd6df);box-shadow:0 12px 32px rgba(23,32,42,.12)}
+.v32-heroImg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 56%;display:block}.v32-hero.is-broken{background:linear-gradient(135deg,#e7ebef,#d6dde5)}
+.v32-hero:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,15,25,.08),rgba(10,15,25,.48))}
+.v32-heroShade{position:absolute;z-index:1;left:16px;bottom:14px;color:#fff;font-size:10px;font-weight:800;letter-spacing:.14em}
+.v21-storemark{overflow:hidden;padding:0}.v21-storemark img{width:100%;height:100%;object-fit:cover;display:block}
+.v32-machineThumb{width:42px;height:58px;border-radius:8px;background:#f1f3f5;display:grid;place-items:center;overflow:hidden;border:1px solid #e5e8ec}.v32-machineThumb img{width:100%;height:100%;object-fit:contain;background:#fff}
+.v21-result{grid-template-columns:42px minmax(0,1fr) 18px}
+.v32-storeHero{width:min(calc(100% - 24px),760px);height:170px;margin:calc(10px + env(safe-area-inset-top)) auto 8px;border-radius:20px;overflow:hidden;position:relative;background:#e9edf1}.v32-storeHero img{width:100%;height:100%;object-fit:cover;display:block}.v32-storeHeroShade{position:absolute;inset:0;background:linear-gradient(180deg,transparent 52%,rgba(12,18,25,.22))}.v32-abashiriHero{margin-bottom:0}
+@media(max-width:430px){.v32-hero{height:156px;border-radius:18px}.v32-storeHero{height:142px;border-radius:16px;width:calc(100% - 24px)}}
+
+/* v3.3 iPhone readability / overflow hardening */
+body.v2-store,body.v2-guide,body.v2-abashiri{--muted:#56616d!important}
+body.v2-store .quick,body.v2-abashiri .quick,body.v2-store .detail,body.v2-abashiri .detail,body.v2-store .sub,body.v2-abashiri .sub,body.v2-store .audit li,body.v2-abashiri .audit li{color:#25303b!important;opacity:1!important}
+body.v2-store .quick,body.v2-abashiri .quick{font-size:14px!important;line-height:1.55!important;font-weight:700!important;margin-left:39px!important;margin-right:4px!important;overflow-wrap:anywhere;word-break:normal}
+body.v2-store .sub,body.v2-abashiri .sub{font-size:12px!important;line-height:1.55!important;margin-left:39px!important;margin-right:4px!important;overflow-wrap:anywhere}
+body.v2-store .detail,body.v2-abashiri .detail{font-size:13px!important;line-height:1.72!important;overflow-wrap:anywhere}
+body.v2-store .card summary,body.v2-abashiri .card summary{padding:14px!important;overflow:hidden}
+body.v2-store .machine,body.v2-abashiri .machine{font-size:15px!important;line-height:1.4!important;overflow-wrap:anywhere}
+body.v2-store .namewrap,body.v2-abashiri .namewrap{min-width:0!important}
+body.v2-store .sumrow,body.v2-abashiri .sumrow{min-width:0!important}
+body.v2-store .tag,body.v2-abashiri .tag{color:#44505d!important;background:#f2f5f8!important;border-color:#dce2e8!important}
+body.v2-store .sectionnote,body.v2-abashiri .sectionnote,body.v2-store .hero p,body.v2-abashiri .hero p,body.v2-store .kpi span,body.v2-abashiri .kpi span{color:#56616d!important}
+body.v2-store .rank.s,body.v2-abashiri .rank.s{background:#e4f8ec!important;border-color:#9be0b7!important;color:#166534!important}
+body.v2-store .rank.a,body.v2-abashiri .rank.a{background:#eaf2ff!important;border-color:#b9d2fa!important;color:#174f9b!important}
+body.v2-store .rank.b,body.v2-abashiri .rank.b{background:#fff5d9!important;border-color:#ead28d!important;color:#745000!important}
+body.v2-store .fav,body.v2-abashiri .fav{color:#687b92!important;min-width:44px!important;min-height:44px!important;display:grid!important;place-items:center!important}
+body.v2-store .fav.on,body.v2-abashiri .fav.on{color:#c98b00!important}
+body.v2-store .card,body.v2-abashiri .card{overflow:hidden!important}
+body.v2-store main,body.v2-abashiri main{max-width:100%;overflow-x:clip}
+.v21-result{grid-template-columns:42px minmax(0,1fr) 18px!important}
+.v21-result .name,.v21-result .quick{overflow-wrap:anywhere;word-break:normal}
+.v21-result .name{font-size:14.5px}.v21-result .quick{font-size:12.5px;line-height:1.5;color:#25303b}
+.v21-result .meta{color:#596570;font-size:11px}.v21-count{color:#596570;font-size:12px}
+.v21-rank{color:#3e4a55}.v21-fav{color:#6f8195}
+.v21-storerow span,.v21-lead,.lead{color:#596570!important}
+.v32-storeHero img,.v21-storemark img,.v32-machineThumb img{display:block}
+.v21-storemark{overflow:hidden}.v21-storemark img{width:100%;height:100%;object-fit:cover}
+@media(max-width:430px){body.v2-store .quick,body.v2-abashiri .quick{font-size:13.5px!important}.v21-search-page{padding-left:14px;padding-right:14px}.v21-result{padding-left:10px;padding-right:48px;gap:9px}}
+
+/* v3.4 resilience / one-hand usability */
+.v32-machineThumb.is-broken::after{content:"画像なし";font-size:8px;font-weight:800;color:#6b7681;line-height:1.2;text-align:center;padding:3px}
+:focus-visible{outline:3px solid rgba(23,105,224,.38);outline-offset:2px}
+.v21-result,.v21-storerow,.v21-action{min-width:0}
+.v21-result>div:nth-child(2),.v21-storerow>div:nth-child(2){min-width:0}
+@media(max-width:430px){.v21-result .quick{font-size:13px;line-height:1.48}.v21-result .meta{font-size:11.5px}}
+
+/* v3.5 final mobile usability pass */
+/* Bottom navigation: keep labels readable on iPhone without sacrificing thumb targets. */
+.v21-dock a{font-size:11px;line-height:1.2;min-height:52px}
+.v21-dock svg{flex:0 0 auto}
+/* Strong keyboard/focus state without changing touch appearance. */
+:where(a,button,input,select):focus-visible{outline:3px solid rgba(23,105,224,.32);outline-offset:2px}
+/* Image guide is used while standing in-store: body copy was still too small in legacy inline CSS. */
+body.v2-guide .head p,body.v2-guide .v28-detail,body.v2-guide .body li,body.v2-guide .common p,body.v2-guide .common li{font-size:13.5px!important;line-height:1.65!important;color:#3f4b57!important}
+body.v2-guide .count,body.v2-guide .sub{font-size:12px!important;color:#596570!important}
+body.v2-guide .tag{font-size:11px!important;color:#315b91!important;background:#eef5ff!important;border-color:#cfe0fb!important}
+body.v2-guide .source a{font-size:12px!important}
+/* Long Japanese machine names/conditions must never force horizontal scrolling. */
+body.v2-guide .head h2,body.v2-guide .v28-detail,body.v2-guide .body,body.v2-guide .common,.v21-storerow b,.v21-storerow span{overflow-wrap:anywhere;word-break:normal}
+/* Search rows: preserve a clear minimum reading size and keep the favorite control independent. */
+.v21-result .quick{font-size:13px;line-height:1.52}.v21-result .name{line-height:1.42}
+@media(max-width:390px){.v21-dock a{font-size:10.5px}.v21-result .quick{font-size:12.75px}}
+
+/* v3.6 one-hand in-store pass */
+/* Store photography remains useful for orientation, but must not push controls below the thumb zone. */
+@media(max-width:430px){
+  .v32-storeHero{height:88px!important;margin:6px 12px 6px!important;width:calc(100% - 24px)!important;border-radius:14px!important}
+  .v2-appbar{min-height:52px!important}
+  .v2-store header{top:calc(52px + env(safe-area-inset-top))!important}
+}
+/* Legacy store controls: enforce dependable touch targets and readable state labels. */
+body.v2-store .filters{gap:8px!important;padding-bottom:2px}
+body.v2-store .filter{min-height:44px!important;min-width:44px!important;justify-content:center!important}
+body.v2-store .head{min-height:58px}
+body.v2-store .star,body.v2-store .toggle{min-width:44px!important;min-height:44px!important;display:grid!important;place-items:center!important}
+/* Prevent the fixed dock from crowding the final actionable row. */
+body.v2-store main,body.v2-guide main{padding-bottom:calc(94px + env(safe-area-inset-bottom))!important}
+
+
+/* v3.7: real-device fixes from iPhone 17 review */
+.v21-storemark.is-broken::after{content:"写真なし";font-size:8px;font-weight:800;color:#6b7681;line-height:1.15;text-align:center;padding:3px}
+body.v2-store .targetline,body.v2-abashiri .targetline{
+  margin:0 14px 14px 53px!important;
+  padding:8px 10px!important;
+  border-left:3px solid var(--pink)!important;
+  border-radius:0 9px 9px 0;
+  background:#fff6f9!important;
+  color:#202a35!important;
+  font-size:13.5px!important;
+  line-height:1.5!important;
+  font-weight:800!important;
+  overflow-wrap:anywhere;
+  word-break:normal;
+  min-width:0;
+}
+body.v2-store .quick,body.v2-abashiri .quick{padding-bottom:9px!important}
+body.v2-store .details,body.v2-abashiri .details{clear:both}
+.v21-count{min-height:24px;line-height:1.45;padding-top:2px;padding-bottom:8px}
+@media(max-width:430px){
+  body.v2-store .targetline,body.v2-abashiri .targetline{margin-left:53px!important;margin-right:14px!important;font-size:13px!important}
+  .v21-search-head{padding-top:calc(10px + env(safe-area-inset-top));padding-bottom:8px}
+  .v21-search-head h1{font-size:20px;margin-bottom:8px}
+  .v21-segments{margin-top:8px}
+}
+
+
+/* v3.8 audit: image-guide thumb targets + stable interaction */
+body.v2-guide .nav a,body.v2-guide .filter,body.v2-guide .source a,body.v2-guide dialog button{
+  min-height:44px!important;
+  display:inline-flex!important;
+  align-items:center!important;
+  justify-content:center!important;
+}
+body.v2-guide .filters{gap:8px!important}
+body.v2-guide .source{gap:8px!important}
+
+/* v3.8 audit: Abashiri utility links were only ~29px high on iPhone. */
+body.v2-abashiri .globalbar a{min-height:44px!important;display:inline-flex!important;align-items:center!important}
+
+/* v3.8 audit: Abashiri store/priority filters must remain thumb-friendly. */
+body.v2-abashiri .storebtn,
+body.v2-abashiri .chip{
+  min-height:44px!important;
+  min-width:44px!important;
+  display:inline-flex!important;
+  align-items:center!important;
+  justify-content:center!important;
+}
+
+/* v3.8 audit: compact back links still need a 44×44 hit area. */
+.v2-back{
+  min-width:44px!important;
+  min-height:44px!important;
+  display:inline-flex!important;
+  align-items:center!important;
+}
+
+/* v3.8 audit: selected low-rate mode needs readable contrast on navy. */
+.mode button.active{
+  color:#fff!important;
+}
+
+/* v3.8 audit: DAIGORO Z's legacy mode/rank controls were 42px high. */
+body.v2-store .modes button,
+body.v2-store .f button{
+  min-height:44px!important;
+  min-width:44px!important;
+}
+
+/* v3.8 audit: fallback link on the Kitami redirect page remains tappable. */
+body.v2-redirect a{
+  min-height:44px;
+  display:inline-flex;
+  align-items:center;
+  padding:0 12px;
+}
+
+/* v3.8 audit: legacy DAIGORO Z expand chevrons also need a full hit area. */
+body.v2-store .tog{
+  min-width:44px!important;
+  min-height:44px!important;
+}
+
+/* v3.8 audit: Abashiri's legacy bottom view switcher had dark-on-dark text. */
+body.v2-abashiri .navbtn{
+  min-height:52px!important;
+  background:transparent!important;
+  color:#68727d!important;
+  border-color:transparent!important;
+}
+body.v2-abashiri .navbtn.active{
+  background:#eaf2ff!important;
+  color:#0f5fc7!important;
+  border-color:#cfe0fb!important;
+}
+
+
+/* v3.9 accessibility: explicit focus treatment for stateful controls. */
+:where(.star,.toggle,.fav,.filter,.chip,.storebtn,.navbtn,.v21-fav,.v21-segments button,button[onclick*="setMode"]):focus-visible{outline:3px solid rgba(23,105,224,.38)!important;outline-offset:2px}
+
+
+/* v3.11 beginner-language pass: presentation only; machine/target values unchanged. */
+.v311-help{background:#fff;border:1px solid var(--line);border-radius:14px;margin:0 0 12px;overflow:hidden;color:var(--text)}
+.v311-help summary{min-height:44px;display:flex;align-items:center;padding:9px 12px;cursor:pointer;font-size:12.5px;font-weight:800;color:#315b91;list-style:none}
+.v311-help summary::-webkit-details-marker{display:none}.v311-help summary::after{content:"＋";margin-left:auto;color:#72808f;font-size:17px}.v311-help[open] summary::after{content:"−"}
+.v311-helpbody{border-top:1px solid var(--line);padding:10px 12px 12px;font-size:12px;line-height:1.6;color:#3d4854}.v311-helpbody p{margin:0 0 8px}.v311-helpbody p:last-child{margin:8px 0 0}
+.v311-glossary{display:grid;grid-template-columns:1fr 1fr;gap:5px 12px}.v311-glossary span{min-width:0;overflow-wrap:anywhere}.v311-glossary b{color:#17202a}.v311-caution{padding:7px 8px;border-radius:9px;background:#fff8e8;color:#5b4916}
+body.v2-store .quick .v311-quick-label{color:#56616d;font-weight:800;margin-right:3px}
+.v311-target-label{display:inline-block;font-size:9.5px;line-height:1.2;color:#a82d5c;border:1px solid rgba(217,60,118,.26);background:#fff;border-radius:5px;padding:2px 5px;margin:0 6px 1px 0;vertical-align:1px;white-space:nowrap}
+body.v2-store .row{grid-template-columns:100px minmax(0,1fr)!important}
+body.v2-store .label,body.v2-store .lab{font-size:11.5px!important;line-height:1.35!important;overflow-wrap:anywhere}
+.v311-search-help{margin:0 0 11px}
+@media(max-width:370px){.v311-glossary{grid-template-columns:1fr}body.v2-store .row{grid-template-columns:92px minmax(0,1fr)!important}}
